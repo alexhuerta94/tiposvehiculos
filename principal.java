@@ -1,4 +1,4 @@
-
+//alejandro huerta gonzalez grupo 2S11
 package tipautos;
 
 import java.util.Scanner;
